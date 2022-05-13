@@ -1,0 +1,14 @@
+D:\WORK\Projects\acc-pagibig-ubp-kyc-fileCounter\obj\Debug\acc-pagibig-ubp-kyc-fileCounter.csproj.AssemblyReference.cache
+D:\WORK\Projects\acc-pagibig-ubp-kyc-fileCounter\obj\Debug\acc-pagibig-ubp-kyc-fileCounter.csproj.CoreCompileInputs.cache
+D:\WORK\Projects\acc-pagibig-ubp-kyc-fileCounter\bin\Debug\kyc_fileCounter.exe.config
+D:\WORK\Projects\acc-pagibig-ubp-kyc-fileCounter\bin\Debug\kyc_fileCounter.exe
+D:\WORK\Projects\acc-pagibig-ubp-kyc-fileCounter\bin\Debug\kyc_fileCounter.pdb
+D:\WORK\Projects\acc-pagibig-ubp-kyc-fileCounter\bin\Debug\DAL.dll
+D:\WORK\Projects\acc-pagibig-ubp-kyc-fileCounter\bin\Debug\WinSCPnet.dll
+D:\WORK\Projects\acc-pagibig-ubp-kyc-fileCounter\bin\Debug\DAL.pdb
+D:\WORK\Projects\acc-pagibig-ubp-kyc-fileCounter\obj\Debug\acc-pagibig-ubp-kyc-fileCounter.csproj.CopyComplete
+D:\WORK\Projects\acc-pagibig-ubp-kyc-fileCounter\obj\Debug\kyc_fileCounter.exe
+D:\WORK\Projects\acc-pagibig-ubp-kyc-fileCounter\obj\Debug\kyc_fileCounter.pdb
+D:\WORK\Projects\acc-pagibig-ubp-kyc-fileCounter\bin\Debug\Newtonsoft.Json.dll
+D:\WORK\Projects\acc-pagibig-ubp-kyc-fileCounter\bin\Debug\Newtonsoft.Json.xml
+D:\WORK\Projects\acc-pagibig-ubp-kyc-fileCounter\bin\Debug\AllcardEncryptDecrypt.dll

@@ -1,0 +1,15 @@
+[
+	{		
+		"BankRepo": "D:\\WORK\\Projects\\acc-pagibig-ubp-kyc-fileCounter\\bin\\Debug\\Reports",		
+		"DbaseConStr": "Server=172.16.7.183;Database=LCDB_01;User=allcard;Password=MikasaAckerman#;",		
+		"SftpHost": "sftp.allcardtech.com.ph",
+		"SftpPort": 2022,
+		"SftpUser": "bayambang",
+		"SftpPass": "Argon2016*",
+		"SftpKeyPath": "",
+		"SftpSshHostKeyFingerprint": "ssh-ed25519 256 20:c3:ed:d6:8b:ef:83:0c:5f:e0:0b:58:78:93:6b:c6",
+		"SftpRemotePath": "/Bayambang/test e",
+		"SendToSftp": 1,
+		"Cipher_Key": "dc3cdfb50cf19cbab0906d03e4c22d66"
+	}
+]
