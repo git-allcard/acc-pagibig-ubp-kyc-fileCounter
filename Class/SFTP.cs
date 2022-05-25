@@ -141,7 +141,7 @@ namespace kyc_fileCounter
 
                 using (Session session = new Session())
                 {
-                    session.DisableVersionCheck = true;
+                    //session.DisableVersionCheck = true;
 
                     TransferOptions transferOptions = new TransferOptions();
                     transferOptions.TransferMode = TransferMode.Binary;
